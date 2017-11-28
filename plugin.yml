@@ -1,0 +1,7 @@
+name: ObbyBlaster
+author: ShaduuYT
+website: http://twitter.com/ShaduuMCPE
+description: Launch TNT with automatic cannons!
+version: 0.0.3
+api: 3.0.0-ALPHA9, 3.0.0-ALPHA10
+main: ObbyBlaster\MainClass
